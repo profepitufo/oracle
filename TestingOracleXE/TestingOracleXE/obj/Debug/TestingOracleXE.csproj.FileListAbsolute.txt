@@ -1,0 +1,12 @@
+C:\VStudio\TestingOracleXE\TestingOracleXE\bin\Debug\TestingOracleXE.exe.config
+C:\VStudio\TestingOracleXE\TestingOracleXE\bin\Debug\TestingOracleXE.exe
+C:\VStudio\TestingOracleXE\TestingOracleXE\bin\Debug\TestingOracleXE.pdb
+C:\VStudio\TestingOracleXE\TestingOracleXE\obj\Debug\TestingOracleXE.csprojAssemblyReference.cache
+C:\VStudio\TestingOracleXE\TestingOracleXE\obj\Debug\TestingOracleXE.FormTestingOracleXE.resources
+C:\VStudio\TestingOracleXE\TestingOracleXE\obj\Debug\TestingOracleXE.Properties.Resources.resources
+C:\VStudio\TestingOracleXE\TestingOracleXE\obj\Debug\TestingOracleXE.csproj.GenerateResource.cache
+C:\VStudio\TestingOracleXE\TestingOracleXE\obj\Debug\TestingOracleXE.csproj.CoreCompileInputs.cache
+C:\VStudio\TestingOracleXE\TestingOracleXE\obj\Debug\TestingOracleXE.exe
+C:\VStudio\TestingOracleXE\TestingOracleXE\obj\Debug\TestingOracleXE.pdb
+C:\VStudio\TestingOracleXE\TestingOracleXE\obj\Debug\Interop.ORAOLEDBLib.dll
+C:\VStudio\TestingOracleXE\TestingOracleXE\obj\Debug\TestingOracleXE.csproj.ResolveComReference.cache
